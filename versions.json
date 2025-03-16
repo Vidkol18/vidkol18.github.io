@@ -1,16 +1,15 @@
 {
-    "<name of resource>": {
-        "homepage": "<homepage/download page for your resource>",
+    "neo-fishing": {
+        "homepage": "https://vidkol18.github.io/",
         "latest": {
-            "version": "<latest version>",
-            "description": "<description of the resource>",
-            "download": "<link to download the resource>"
+            "version": "1.0.0",
+            "description": "A FiveM resource for fishing.",
+            "download": "https://github.com/Vidkol18/neo-fishing"
         },
         "changelog": {
-            "<version>": {
+            "1.0.0": {
                 "changes": [
-                    "<change 1>",
-                    "<chan+ge 2>"
+                    "Initial release of neo-fishing."
                 ]
             }
         }
