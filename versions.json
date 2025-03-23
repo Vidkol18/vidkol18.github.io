@@ -1,17 +1,1 @@
-{
-    "neo-fishing": {
-        "homepage": "https://vidkol18.github.io/",
-        "latest": {
-            "version": "1.0.0",
-            "description": "A FiveM resource for fishing.",
-            "download": "https://github.com/Vidkol18/neo-fishing"
-        },
-        "changelog": {
-            "1.0.0": {
-                "changes": [
-                    "Initial release of neo-fishing."
-                ]
-            }
-        }
-    }
-}
+{}
